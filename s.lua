@@ -1,3 +1,5 @@
+ESX = nil
+
 kwotaes = 12500 -- cena naprawy
 potrzebnepieniadze = true -- czy musisz miec hajs zeby naprawic samochod
 
